@@ -6,7 +6,7 @@ I thrive on solving complex challenges and fostering collaboration across develo
 
 ## GitHub Stats
 
-[![StefanSpieker's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanSpieker)](https://github.com/StefanSpieker)
+[![StefanSpieker's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanSpieker&show_icons=true)](https://github.com/StefanSpieker)
 
 <!--
 **StefanSpieker/StefanSpieker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
