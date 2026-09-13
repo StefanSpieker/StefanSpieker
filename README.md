@@ -2,7 +2,11 @@
 
 I am a Senior Solution Architect and DevOps Engineer at Schaeffler. With a strong passion for automation and continuous integration, I am actively involved in the Jenkins development, contributing to its growth and keep it maintained. 
 I thrive on solving complex challenges and fostering collaboration across development and operations teams. I am maintaining 3 Jenkins Plugins: 
-[ThinBackup](https://plugins.jenkins.io/thinBackup/) [Job Configuration History](https://plugins.jenkins.io/jobConfigHistory/) [Mail Watcher](https://plugins.jenkins.io/mail-watcher-plugin/)
+* [ThinBackup](https://plugins.jenkins.io/thinBackup/)
+* [Job Configuration History](https://plugins.jenkins.io/jobConfigHistory/)
+* [Mail Watcher](https://plugins.jenkins.io/mail-watcher-plugin/)
+
+I'm also a [CDF Ambassador](https://cd.foundation/ambassadors/)
 
 ## GitHub Stats
 
